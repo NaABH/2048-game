@@ -1,0 +1,10 @@
+PlayerName,RoundSurvived
+Player1,180 (Lose)
+Player2,1024 (Win)
+John,804 (Lose)
+Na,1 (Lose)
+asd,1 (Lose)
+Unknown,1 (Lose)
+asd,1 (Lose)
+a,78 (Lose)
+loser,98 (Lose)
